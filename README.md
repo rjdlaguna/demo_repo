@@ -1,3 +1,3 @@
 # Demo 
 
-This is sample of a README
+This is sample of a README for a repo.
